@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:ros2-gbp/mimick_vendor-release
+release_repo_url: git@github.com:tgenovese/mimick_vendor-release.git
 tracks:
   foxy:
     actions:
