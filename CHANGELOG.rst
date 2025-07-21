@@ -2,23 +2,12 @@
 Changelog for package mimick_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.9.0 (2025-04-24)
+0.6.2 (2024-09-06)
 ------------------
-* Remove CODEOWNERS and mirror-rolling-to-master workflow. (`#40 <https://github.com/ros2/mimick_vendor/issues/40>`_)
-* Contributors: Chris Lalancette
-
-0.8.1 (2024-07-29)
-------------------
-* Update hash to fix windows failures (`#39 <https://github.com/ros2/mimick_vendor/issues/39>`_)
-* Contributors: Alejandro Hernández Cordero
-
-0.8.0 (2024-06-17)
-------------------
-* Update to the commit that includes DT_GNU_HASH. (`#37 <https://github.com/ros2/mimick_vendor/issues/37>`_)
-* Contributors: Chris Lalancette
-
-0.7.0 (2024-04-26)
-------------------
+* Update to the commit that includes DT_GNU_HASH. (`#37 <https://github.com/ros2/mimick_vendor/issues/37>`_) (`#38 <https://github.com/ros2/mimick_vendor/issues/38>`_)
+  (cherry picked from commit c9f8b35ce5a5c5d237c7a2db2591976f0b7cba2a)
+  Co-authored-by: Chris Lalancette <clalancette@gmail.com>
+* Contributors: mergify[bot]
 
 0.6.1 (2024-03-28)
 ------------------
